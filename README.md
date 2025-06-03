@@ -8,13 +8,12 @@ analysis on sleep
   - model : here we have severals model like: ML,LASSO,TREE,SVM : and several matrics : MSE,ME
 
 # folder excel_file
-   -here we have several statistical data 
-   
+  - here we have several statistical data
 # folder result_slide 
-   -here we have some slide presentations 
+  - here we have some slide presentations
+# folder updrs 
+  - here we have the updrs scores of parts 1,2 and 3
    
-# folder updrs   
-   -here we have the updrs scores of parts 1,2 and 3
 
    
 
